@@ -9,6 +9,14 @@ redirect to a portfolio on my page which is a website like but an emalgomation o
 https://www.youtube.com/watch?v=r0RqucKwIcw
 also attach a blog page with daily logs and hosting
 
+#### templete
+dsa --> java --> array --> types of array questions 
+                       --> 150 leetcode all array questions
+                       --> overview of most used functions and concepts as a summary
+                       --> 100+ most asked question in array
+                       --> all basic algo and implementation in array
+
+
 postman 
 dsa 
 CS core subject
