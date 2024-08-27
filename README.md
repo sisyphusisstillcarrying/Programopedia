@@ -16,8 +16,11 @@ dsa --> java --> array --> types of array questions
                        --> 100+ most asked question in array
                        --> all basic algo and implementation in array
 
+java --> dsa part and concetps
+     --> oops
+     --> better understanding of tools offered by java to have a diverse knowledge of this language
 
-postman 
+API handling - postman 
 dsa 
 CS core subject
 under technology tag
